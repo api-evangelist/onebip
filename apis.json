@@ -1,0 +1,69 @@
+{
+    "name": "Onebip",
+    "description": "Onebip is a payment solution for digital merchants and app developers, offering an outstanding experience and advanced billing technology to its partners.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1104-onebip.jpg",
+    "tags": [
+        "api provider",
+        "billing",
+        "has api",
+        "have api",
+        "no api definition",
+        "payments",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/onebip\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Onebip",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1104-onebip.jpg",
+            "humanURL": "http:\/\/onebip.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/onebip-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/corporate.onebip.com\/blog\/"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "http:\/\/www.linkedin.com\/company\/onebip"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/onebip.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/corporate.onebip.com\/category\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/onebip"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/olo"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/onebip"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Onebip"
+        }
+    ]
+}
